@@ -34,7 +34,7 @@ Generation (RAG) with FAISS and HuggingFace embeddings.
 3.  Run the Streamlit app:
 
     ``` bash
-    streamlit run ai_document_reader.py
+    streamlit run GenAI-PDF-Reader.py
     ```
 
 ## 🛠 Requirements
