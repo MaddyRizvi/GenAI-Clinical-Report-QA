@@ -20,7 +20,7 @@ Generation (RAG) with FAISS and HuggingFace embeddings.
 
     ``` bash
     git clone https://github.com/MaddyRizvi/GenAI-PDF-Reader.git
-    cd AI-PDF-Reader-RAG
+    cd GenAI-PDF-Reader
     ```
 
 2.  Create a virtual environment and install dependencies:
