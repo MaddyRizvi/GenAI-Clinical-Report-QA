@@ -19,8 +19,8 @@ Generation (RAG) with FAISS and HuggingFace embeddings.
 1.  Clone this repository:
 
     ``` bash
-    git clone https://github.com/MaddyRizvi/GenAI-PDF-Reader.git
-    cd GenAI-PDF-Reader
+    git clone https://github.com/MaddyRizvi/GenAI-Clinical-Report-QA.git
+    cd GenAI-Clinical-Report-QA
     ```
 
 2.  Create a virtual environment and install dependencies:
