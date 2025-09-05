@@ -3,7 +3,6 @@ streamlit
 faiss-cpu
 pypdf
 numpy
-
 # RAG and embeddings
 langchain
 langchain-community
